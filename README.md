@@ -1,0 +1,2 @@
+# News-and-Intelligence-Analysis
+本專題主要使用wordcloud透過Python、R程式及SQLServer軟體及搭配新聞文字進行字詞拆分繪製出文字雲圖。
